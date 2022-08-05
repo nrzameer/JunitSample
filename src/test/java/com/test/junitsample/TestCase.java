@@ -10,7 +10,7 @@ public class TestCase {
 	@Test
 	   public void testAdd() {
 	      String str = "Junit is working fine";
-	      Assert.assertEquals(str, "te");
+	      Assert.assertEquals(str, "Junit is working fine");
 	   }
 	
 	@Test
